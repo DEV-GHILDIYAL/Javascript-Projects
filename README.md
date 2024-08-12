@@ -2,6 +2,7 @@
 Welcome to the JavaScript Mini Projects repository! This repository is a collection of small, fun, and educational JavaScript projects. Each project is designed to teach you something new, whether it's a specific JavaScript concept, DOM manipulation, or how to interact with APIs. The projects are perfect for beginners looking to practice their JavaScript skills and for more experienced developers who want to explore new ideas.
 
 Table of Contents
+
     About the Projects
     Project List
         1. TextToVoice Converter
