@@ -2,7 +2,7 @@ const generateButton = document.getElementById('generateButton');
 const textPrompt = document.getElementById('textPrompt');
 const generatedImage = document.getElementById('generatedImage');
 
-const apiKey = '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'; // Replace with your Hugging Face API key
+const apiKey = 'API_KEY'; // Replace with your Hugging Face API key
 const modelEndpoint = 'https://api-inference.huggingface.co/models/CompVis/stable-diffusion-v1-4'; // Example endpoint for Stable Diffusion
 
 generateButton.addEventListener('click', async () => {
